@@ -41,7 +41,7 @@ const Hero = () => {
     return () => document.removeEventListener('mousemove', handleMouseMove);
   }, []);
 
-  const whatsappNumber = "+1234567890"; // 👈 Cambia por tu número de WhatsApp
+  const whatsappNumber = "+52 777 133 3155"; // 👈 Cambia por tu número de WhatsApp
   const whatsappMessage = "Hola! Me interesa saber más sobre tus servicios de desarrollo web.";
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
@@ -234,7 +234,7 @@ const Hero = () => {
                   </a>
                   
                   <a 
-                    href="https://linkedin.com/in/tu-perfil" 
+                    href="https://www.linkedin.com/in/daniel-perez-8007b3328/" 
                     className="text-slate-500 hover:text-blue-400 transition-colors p-2"
                     target="_blank"
                     rel="noopener noreferrer"

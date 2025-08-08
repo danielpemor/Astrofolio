@@ -41,7 +41,7 @@ const Hero = () => {
     return () => document.removeEventListener('mousemove', handleMouseMove);
   }, []);
 
-  const whatsappNumber = "+52 777 133 3155"; // 👈 Cambia por tu número de WhatsApp
+  const whatsappNumber = "+527771333155"; // 👈 Cambia por tu número de WhatsApp
   const whatsappMessage = "Hola! Me interesa saber más sobre tus servicios de desarrollo web.";
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 

@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "RestaurantPro",
+      "description": "Sistema integral de gestión para restaurantes con reservaciones automatizadas",
+      "technologies": ["React", "Directus CMS", "Node.js", "Email API", "Real-time DB"],
+      "type": "Sistema de Gestión Empresarial",
+      "imageUrl": "/images/restaurante.png",
+      "videoUrl": "",
+      "link": "https://turestauranteweb.netlify.app/",
+      "features": [
+        "Sistema de reservas con validación en tiempo real",
+        "Gestión automática de capacidad y horarios",
+        "Notificaciones por email automáticas",
+        "Panel de administración con Directus",
+        "Prevención de sobrebooking inteligente"
+      ],
+      "challengeSolved": "Automatizar completamente el proceso de reservas eliminando conflictos de horarios y optimizando la capacidad del restaurante",
+      "colorScheme": {
+        "primary": "#FF6B6B",
+        "secondary": "#4ECDC4"
+      },
+      "metrics": {
+        "development_time": "3 semanas",
+        "users_capacity": "500+ reservas/mes",
+        "automation_level": "95%"
+      }
+    },
+    {
+      "id": 2,
+      "title": "PrIntekSupplies",
+      "description": "Landing page profesional de alto impacto para empresa de suministros industriales",
+      "technologies": ["Next.js", "Modern UI/UX", "SEO Optimization", "Responsive Design"],
+      "type": "Landing Page Empresarial",
+      "videoUrl": "/videos/printek.mp4",
+      "link": "https://printeksupplies.netlify.app/",
+      "features": [
+        "Diseño moderno y profesional",
+        "Optimización SEO completa",
+        "Formularios de contacto optimizados",
+        "Responsive design perfecto",
+        "Llamadas a la acción estratégicas"
+      ],
+      "challengeSolved": "Crear una presencia digital profesional que genere confianza y convierta visitantes en leads cualificados para la empresa",
+      "colorScheme": {
+        "primary": "#3A56E5",
+        "secondary": "#7BDFF2"
+      },
+      "metrics": {
+        "development_time": "2 semanas",
+        "performance_score": "95+ PageSpeed",
+        "conversion_optimization": "Alto impacto"
+      }
+    }
+  ],
+  "skills": {
+    "frontend": ["React", "Next.js", "JavaScript", "Tailwind CSS", "Astro"],
+    "backend": ["Node.js", "Python", "API Development", "Database Design"],
+    "cms": ["Directus", "Headless CMS", "Content Management"],
+    "tools": ["Git", "Netlify", "Email Services", "SEO Optimization"]
+  },
+  "stats": {
+    "years_experience": "3+",
+    "projects_completed": "10+",
+    "technologies_mastered": "15+",
+    "client_satisfaction": "100%",
+    "response_time": "< 24h"
+  }
+}

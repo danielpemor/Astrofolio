@@ -223,7 +223,7 @@ const Hero = () => {
                 {/* Enlaces sociales */}
                 <div className="flex justify-center gap-4">
                   <a 
-                    href="mailto:tu-email@ejemplo.com" 
+                    href="mailto:danielpemor123@gmail.com" 
                     className="text-slate-500 hover:text-blue-400 transition-colors p-2"
                     title="Email"
                   >
@@ -246,7 +246,7 @@ const Hero = () => {
                   </a>
                   
                   <a 
-                    href="https://github.com/tu-usuario" 
+                    href="https://github.com/danielpemor" 
                     className="text-slate-500 hover:text-green-400 transition-colors p-2"
                     target="_blank"
                     rel="noopener noreferrer"
